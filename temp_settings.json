@@ -1,0 +1,20 @@
+{
+    "[go]": {
+
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": false
+        },
+    },
+    "go.formatTool": "gofmt",
+    "workbench.editor.enablePreview": false,
+    "editor.fontWeight": "normal",
+    "window.zoomLevel": 1,
+    "workbench.tree.indent": 30,
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#e8e9d7"
+    },
+    "workbench.tree.renderIndentGuides": "always"
+    
+
+}
