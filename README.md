@@ -1,6 +1,8 @@
 # vscode_settings
 settings for visual studio code editor
 
-Multi-command extension required (View -> Extensions)
+Extensions (View -> Extensions)
+- Multi-command extension required 
+- Open in new instance
 
 
